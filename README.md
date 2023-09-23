@@ -1,6 +1,5 @@
 # Onioinarchitecture
 enterprise level system architecture by In ASP.NET Core
-# Onion Architecture 
 
 ## Introduction
 
